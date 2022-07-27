@@ -34,7 +34,7 @@ URL' will include the following components
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
+To capture "reports" or "reports.html" in any path, begin your match after the last /, and capture word characters and .
 ### Anchors
 
 ### Quantifiers
