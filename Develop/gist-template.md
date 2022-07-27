@@ -4,7 +4,20 @@ A "Regex" (regular expression) is defined as a sequence of characters that defin
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Matching a URL: /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+URL' will include the following components 
+
+- http or https
+    A URL must start with http or https in the address. 
+- :// 
+    will then follow either the hypertext transfer protocol. 
+- www
+    The synonym of www is "world wide web", comes after the http or https. 
+
+- The next element in the url address is a "subdomain" which may vary in length between (2 and 256) characters. 
+- File path 
+- .com, .org, .edu etc...
+    The final component will be the top level domain such as a .com, .org or .edu
 
 ## Table of Contents
 
