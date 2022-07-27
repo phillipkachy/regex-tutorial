@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Matching a URL
 
-Introductory paragraph (replace this with your text)
+A "Regex" (regular expression) is defined as a sequence of characters that defines a search pattern 
 
 ## Summary
 
